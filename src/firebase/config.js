@@ -9,7 +9,7 @@ const firebaseConfig = {
     apiKey: "AIzaSyDePxE15IyL8Pgz-x946q33jTPY07ZXxVs",
     authDomain: "ninja-firegram-f2daf.firebaseapp.com",
     projectId: "ninja-firegram-f2daf",
-    dataBaseURL: "https://ninja-firegram.firebaseio.com",
+    dataBaseURL: "https://ninja-firegram-f2daf.firebaseio.com",
     // dataBaseURL: "https://ninja-firegram-f2daf-default-rtdb.firebaseio.com/",
     storageBucket: "ninja-firegram-f2daf.appspot.com",
     messagingSenderId: "395091423761",
